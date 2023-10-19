@@ -21,8 +21,8 @@ echo 'src-git luci https://github.com/coolsnowwolf/luci'                        
 echo 'src-git routing https://github.com/coolsnowwolf/routing'                                      >>feeds.conf.default
 echo 'src-git telephony https://git.openwrt.org/feed/telephony.git'                                 >>feeds.conf.default
 echo 'src-git amlogic https://github.com/ophub/luci-app-amlogic'                                    >>feeds.conf.default
-echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall.git;packages'         >>feeds.conf.default
-echo 'src-git passwall_luci https://github.com/xiaorouji/openwrt-passwall.git;luci'                 >>feeds.conf.default
-echo 'src-git argonnew https://github.com/jerrykuku/luci-theme-argon.git;main'                      >>feeds.conf.default
+echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall.git'                  >>feeds.conf.default
+echo 'src-git passwall_luci https://github.com/xiaorouji/openwrt-passwall.git     '                 >>feeds.conf.default
+echo 'src-git argonnew https://github.com/jerrykuku/luci-theme-argon.git     '                      >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages'                                    >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small'                                               >>feeds.conf.default
